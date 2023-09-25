@@ -1,3 +1,4 @@
 # Hasan Joldic - Web Developer
 
-[![Top Langs](https://github-readme-stats-beta-ashen.vercel.app/api/top-langs/?username=hasanjoldic)](https://github.com/anuraghazra/github-readme-stats)
+<img height=200 align="center" src="https://github-readme-stats-beta-ashen.app/api?username=hasanjoldic" />
+<img height=200 align="center" src="https://github-readme-stats-beta-ashen.app/api/top-langs?username=hasanjoldic&layout=compact&langs_count=8&card_width=320" />
