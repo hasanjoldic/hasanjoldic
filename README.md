@@ -1,11 +1,3 @@
-# Hasan Joldic - Software Developer - Fullstack
+# Hasan Joldic - Web Developer
 
-Most often used tools and technologies:
-
-- Javascript (Typescript)
-- React (Next.js)
-- Node.js (Express)
-- SQL (Postgres)
-- REST and OpenAPI
-- GraphQL
-- AWS
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanjoldic)](https://github.com/anuraghazra/github-readme-stats)
